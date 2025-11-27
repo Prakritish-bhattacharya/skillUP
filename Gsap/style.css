@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: rgb(0, 0, 0);
+    /* font-family:'Courier New', Courier, monospace */
+}
+html,
+body{
+    height: 100%;
+    width: 100%;
+}
+#box1{
+    height: 300px;
+    width: 300px;
+    background-color: crimson;
+}
+#box2{
+    height: 300px;
+    width: 300px;
+    background-color: rgb(23, 190, 14);
+}
